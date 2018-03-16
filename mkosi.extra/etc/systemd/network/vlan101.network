@@ -1,0 +1,8 @@
+[Match]
+Name=vlan101
+
+[Network]
+LinkLocalAddressing=false
+LLMNR=false
+DHCP=false
+MACVLAN=net1
