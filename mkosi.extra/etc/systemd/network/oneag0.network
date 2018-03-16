@@ -1,0 +1,8 @@
+[Match]
+Name=oneag0
+
+[Network]
+LinkLocalAddressing=false
+LLMNR=false
+MACVLAN=net0
+VLAN=vlan101

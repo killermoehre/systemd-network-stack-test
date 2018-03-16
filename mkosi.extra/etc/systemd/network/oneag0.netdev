@@ -1,0 +1,10 @@
+[NetDev]
+Name=oneag0
+Kind=bond
+
+[Bond]
+Mode=802.3ad
+TransmitHashPolicy=layer3+4
+LACPTransmitRate=slow
+MIIMonitorSec=500
+AdSelect=count
