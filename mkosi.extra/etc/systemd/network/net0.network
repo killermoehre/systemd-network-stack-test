@@ -1,0 +1,13 @@
+[Match]
+Name=net0
+
+[Link]
+RequiredForOnline=true
+
+[Network]
+LinkLocalAddressing=false
+LLMNR=false
+Address=10.1.1.100/24
+Gateway=10.1.1.1
+Domains=my.do.main foo.bar
+DNS=10.1.1.2
