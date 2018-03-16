@@ -1,0 +1,7 @@
+[Match]
+Name=en*
+
+[Network]
+LinkLocalAddressing=false
+LLMNR=false
+Bond=oneag0
