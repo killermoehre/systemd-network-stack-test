@@ -1,0 +1,7 @@
+[Match]
+Name=net1
+
+[Network]
+LinkLocalAddressing=false
+LLMNR=false
+Address=10.1.2.200/24

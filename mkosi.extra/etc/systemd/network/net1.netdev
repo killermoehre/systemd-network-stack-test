@@ -1,0 +1,7 @@
+[NetDev]
+Name=net1
+Kind=macvlan
+MACAddress=00:00:01:18:0a:01
+
+[MACVLAN]
+Mode=bridge
