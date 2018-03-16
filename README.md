@@ -12,7 +12,6 @@ The image itself is Arch Linux based, so you need `pacman` and `pacstrap`. But y
 
 This image is a test to setup a little bit more complicated network stack with `systemd-networkd`. It's based upon a real request from [#systemd](irc://freenode.net/systemd).
 
-![Alt text](Network Stack to implement)
 <img src="./network-stack.svg">
 
 Here you see the network stack we want to implement. This flowchart helped me very much to understand the relations among all the different parts.
