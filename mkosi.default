@@ -12,4 +12,4 @@ Cache=/var/cache/pacman/pkg
 Packages=systemd
 
 [Partitions]
-RootSize=1006632960
+RootSize=1342177280
