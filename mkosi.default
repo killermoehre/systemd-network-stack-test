@@ -1,8 +1,6 @@
 # vim: ft=dosini
 [Distribution]
 Distribution=arch
-Release=current
-
 [Output]
 Format=raw_xfs
 Bootable=yes
